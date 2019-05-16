@@ -1,0 +1,18 @@
+.preto{
+   background-color: rgb(99, 59, 0);
+   height: 120px;
+}
+.branco{
+   background-color: white;
+   height: 120px;
+}
+.img{
+   height: 90%;
+   position: absolute;
+   left: 5px;
+}
+.img2{
+   height: 90%;
+   position: absolute;
+   left: 30px;
+}
